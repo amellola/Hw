@@ -3,7 +3,7 @@ class Rectangle:
     def __init__(self,length,width):
         self.length=length
         self.width=width
-        def Area(length,width):
+    def Area(length,width):
             return(length*width)
 class Vehicule:
     def __init__(self,max_speed,mileage):
